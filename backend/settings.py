@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'api',
     'semester',
     'project',
-    'team'
+    'team',
+    'criteria'
 ]
 
 MIDDLEWARE = [
