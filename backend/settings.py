@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'project',
     'team',
     'criteria',
+    'evaluation',
     'eval',
     'judge'
 ]
